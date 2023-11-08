@@ -1,0 +1,57 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #b6cee7;
+    padding: 10px;
+    text-align: center;
+}
+
+header img {
+    max-width: 100px;
+}
+
+/* Estilos para la sección multimedia */
+.multimedia {
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+video, audio {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilos para el botón */
+.boton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.boton:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #a2bbd4;
+    padding: 10px;
+    text-align: center;
+}
+
+footer img {
+    max-width: 100px;
+}
